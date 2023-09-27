@@ -1,0 +1,77 @@
+Header = Existant
+Nav = Existant
+Main = Existant
+Aside = Existant
+Picture = Existant
+Figure = Existant
+Footer = Existant
+FigCaption = Existant
+Section = Existant
+Command = Not Existant 
+Ruby = Not Existant
+Data = Existant
+Article = Existant
+Install = Not Existant
+Text = Not Existant
+
+These HTML language elements :
+
+- **Header**:
+  An element containing header information for the page or section, 
+  such as the title, logo, or navigation menu.
+
+- **Nav**:
+  An element containing a list of links that allow the user to navigate between web pages
+   and different sections of the same page.
+
+- **Main**:
+  An element containing the main content of the page,
+   which is unique and not repeated on any other page of the same website.
+
+- **Aside**:
+  An element containing secondary or additional content that complements the main content,
+  such as advertisements, notes, or related information.
+
+- **Picture**:
+  An element containing an image or a set of images that can be customized based on screen size,
+  device type, or display resolution.
+
+- **Figure**:
+  An element containing standalone visual content, such as an image, chart, 
+  or icon, which can be accompanied by a description using the FigCaption element.
+
+- **Footer**:
+  An element containing footer information for the page or section,
+   such as copyright, contacts, or a link to the privacy policy.
+
+- **FigCaption**:
+  An element containing a description of the visual content embedded in the Figure element,
+   which helps in explaining the meaning, source, or author.
+
+- **Section**:
+  An element containing a section of content related to the topic or appearance,
+   which should have an appropriate heading using H1 to H6 elements.
+
+- **Article**:
+  An element containing a piece of content that forms an independent entity,
+   such as an article, blog post, or comment, which can be included in different pages.
+
+- **Data**:
+This element provides both a machine-readable value for data processors,
+ and a human-readable value for rendering in a browser.
+
+Remaining elements:
+
+- **Command**:
+  This is not an element.
+
+- **Ruby**:
+  This is not an element but rather the name of a programming language.
+
+
+- **Install**:
+  This is not an element but rather the name of the process of installing a program.
+
+- **Text**:
+  This is not an element but rather the name of a type of content consisting of letters,
+   numbers, and symbols."
